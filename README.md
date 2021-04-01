@@ -1,3 +1,9 @@
+# Basic Birthday Reminder App
+![Site wiev](https://github.com/YTeyfik/Basic-Birthday-Reminder/blob/master/src/images/banner.png)
+
+## Yazılan kod basitçe useState kullanumı ve onClick olayını içermektedir. 
+## The code written simply includes the useState usage and the onClick event.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
